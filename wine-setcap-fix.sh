@@ -1,3 +1,5 @@
+#!/usr/bin/env sh
+
 # This script applies some setcap permissions to wine to allow ACT for FFXIV to work
 
 echo "Applying setcap for wine, wine64 and wineserver"
